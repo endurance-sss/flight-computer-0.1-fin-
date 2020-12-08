@@ -1,4 +1,4 @@
-#include <MPU6050_tockn.h>
+#include <MPU6050_tockn.h> //scl =A5 / sda =A4 /vcc =5v / grn =grn
 #include <Servo.h>
 
 int ledping =7;  //led pin
