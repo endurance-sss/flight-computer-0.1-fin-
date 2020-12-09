@@ -18,7 +18,7 @@
 
 # wiring 
 
-## imu 
+## imu  gy-521
 scl =A5 
 
 sda =A4 
